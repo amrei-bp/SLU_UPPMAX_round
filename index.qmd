@@ -1,0 +1,72 @@
+---
+title: "Compute & Storage Resources at SLU"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+---
+
+# Access to Compute and Storage Resources
+
+This page provides an overview of how to apply for compute and storage resources through NAISS/SUPR, what systems are available, how to manage your allocation, and where to get support.
+
+## How to Apply
+
+<div class="d-flex flex-column" style="margin-top: 1rem; width: 100%;">
+
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step1.qmd">Step 1: Apply for a NAISS/SUPR Account</a>
+
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2025\"</a>
+
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Access After Approval</a>
+
+
+</div>
+
+## Available Systems
+
+The following systems can be requested:
+
+- **Gorilla**  
+- **Pelle**  
+- **Lutra**
+
+**[MORE INFO NEEDED: Add optional system descriptions]**
+
+## Termination of Allocations
+
+Allocations must be terminated or renewed when no longer needed. The exact procedure remains **[MORE INFO NEEDED]**.
+
+Questions pending confirmation:
+- Is termination handled through SUPR? **[MORE INFO NEEDED]**
+- Is a one‑month notice period required? **[MORE INFO NEEDED]**
+- Should users notify NAISS, SLU IT, or both? **[MORE INFO NEEDED]**
+
+## Pricing
+
+Billing follows the NAISS/Uppmax pricing model.  
+Current fees: <https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees>
+
+### Example Costs for Typical Sequencing Projects
+Examples will be added when representative project types are selected.
+
+**[MORE INFO NEEDED: Provide example project types for cost illustrations]**
+
+## Payment Process
+
+The payment process is currently **[MORE INFO NEEDED]**.
+
+Points to clarify:
+- Who issues the invoice? NAISS/Uppmax or internal SLU? **[MORE INFO NEEDED]**
+- Where does the researcher enter a project number or cost center? **[MORE INFO NEEDED]**
+- Is internal SLU invoicing used? **[MORE INFO NEEDED]**
+
+## Support
+
+For questions about accounts, applications, or technical issues, contact:
+
+**itsupport@slu.se**

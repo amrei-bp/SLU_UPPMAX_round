@@ -1,0 +1,98 @@
+---
+title: "Step 2 – Apply for Resources via SLU Local 2025"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+Once you have a SUPR account, you can apply for compute and storage resources through the **SLU Local 2025** round.
+
+## Before You Apply
+
+Prepare the following information:
+
+- Project title and short description  
+- Principal investigator (PI) at SLU  
+- Names and SUPR IDs of key project members (**[MORE INFO NEEDED: are SUPR IDs required for all members?]**)  
+- Estimated compute needs (cores, memory, runtime)  
+- Estimated storage needs (GB or TB, and expected duration)  
+- Internal project number or cost centre for billing (**[MORE INFO NEEDED: required SLU financial details]**)
+
+## Find the “SLU Local 2025” Call in SUPR
+
+1. Log in to SUPR: <https://supr.naiss.se>  
+2. Go to the section for **Rounds** on the menu on the left side.  
+3. Select **"Compute Rounds"** if you want to apply for computational core hours, or **"Storage Rounds"** if you want to apply for storage resources. You need to apply for both separately. 
+4. Locate the call named **“SLU Local 2025”**.  
+5. Click to start a new application.
+
+## Fill in the Application
+
+Typical sections include:
+
+### Project Information
+
+- **Project title**  
+- **Scientific area** (e.g. bioinformatics, genomics, ecology)  
+- **Short abstract** in clear, non-technical language  
+- **Extended description** of methods and type of analyses
+
+### Resources Requested
+
+Describe what you need on:
+
+- **Gorilla**  
+- **Pelle**  
+- **Lutra**  
+
+For each system, specify:
+
+- type of workload (e.g. RNA-seq, WGS, metagenomics, modelling)  
+- number of cores / nodes needed  
+- expected walltime per job  
+- total compute hours required over the project period  
+- storage needs (active project storage and any longer-term storage)
+
+**[MORE INFO NEEDED: specific unit used for compute accounting – core hours, CPU hours, GPU hours, etc.]**
+
+### Project Members
+
+Add:
+
+- PI and co-applicants  
+- other users who should have access to the allocation  
+
+All listed users normally need a SUPR account.
+
+### Budget and Billing
+
+Provide:
+
+- SLU project number and/or cost centre  
+- responsible person for the budget  
+
+**[MORE INFO NEEDED: exact format of project numbers and any required reference text for invoices]**
+
+## Submission and Review
+
+1. Check that all mandatory fields are completed.  
+2. Submit the application in SUPR.  
+3. You will receive a confirmation email from SUPR.  
+4. The application is reviewed according to SLU and NAISS procedures.  
+5. You are notified by email when the allocation has been approved.
+
+**[MORE INFO NEEDED: expected review time and decision schedule]**
+
+## 5. After Approval
+
+When your application is approved:
+
+- The project and allocation are created in SUPR.  
+- Users added to the project are granted access to the selected systems.  
+- You can immediately proceed to connect and start using the resources (see [**Step 3**](apply-step3.qmd)).
+
+---
+
+For questions about how to fill in the application, contact:  
+**itsupport@slu.se**

@@ -1,0 +1,73 @@
+---
+title: "Step 1 – Apply for a NAISS/SUPR Account"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+To request compute and storage resources, you must first have an active user account in the NAISS/SUPR system.
+
+## What is NAISS/SUPR?
+
+NAISS (National Academic Infrastructure for Supercomputing in Sweden) provides national high-performance computing and storage resources.  
+SUPR is the web portal used to manage:
+
+- user accounts  
+- project applications  
+- resource allocations  
+
+You access SUPR here: <https://supr.naiss.se>
+
+## Who Can Apply?
+
+- Employees and researchers at SLU  
+- Doctoral students affiliated with SLU  
+- Other users associated with SLU research projects (**[MORE INFO NEEDED: local rules for external collaborators]**)
+
+## Create a SUPR Account
+
+1. Fill out & submit [account request form](https://supr.naiss.se/person/register/).
+
+::: {.callout-tip}
+- Use Register with Federated Identity if you are enrolled in a Swedish university.
+- If you are not enrolled in a Swedish university or if the previous option doesn't work for you, use instead Register without Federated Identity.
+:::
+
+2. Fill in your contact details and affiliation with **SLU**.  
+3. Confirm your email address if requested.
+
+::: {.callout-tip}
+
+When registering or updating your profile:
+
+- Select **SLU** as your organisation.  
+- Add your research group, department or unit in the profile description if relevant.  
+
+This makes it easier to link you to the correct projects and allocations.
+:::
+
+## Accept NAISS user agreement
+
+Just after creating the SUPR account, on the page you are taken to, there will be a section titled “User Agreement” at the very top. Just under it is the button named “Accept NAISS User Agreement”. 
+
+Alternately, if you do this at a later point. Login to SUPR. At the very top it will say “NAISS User Agreement Pending”.
+
+::: {.callout-tip}
+- Use `With SWAMID` if you are enrolled in a Swedish university - **this option is much faster!**
+- If you are not enrolled in a Swedish university use instead `Alternative: Offline via Paper Form`. Here you will have to print out, sign and send in the form. **This may take up to a week. **
+:::
+
+## After Your Account Is Created
+
+Once your SUPR account is active, you can:
+
+- be added as a member to existing projects, and  
+- submit new applications in calls such as **“SLU Local 2025”**.
+
+Continue to [**Step 2**](apply-step2.qmd) to see how to apply for compute and storage resources.
+
+---
+
+For questions or problems with registration, contact:  
+**itsupport@slu.se**
