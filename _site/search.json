@@ -1,54 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "This page provides an overview of how to apply for compute and storage resources through NAISS/SUPR, what systems are available, how to manage your allocation, and where to get support.\n\n\n\nStep 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval\n\n\n\n\nThe following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]\n\n\n\nAllocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]\n\n\n\nBilling follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]\n\n\n\n\nThe payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]\n\n\n\nFor questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
-  },
-  {
-    "objectID": "index.html#how-to-apply",
-    "href": "index.html#how-to-apply",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "Step 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval"
-  },
-  {
-    "objectID": "index.html#available-systems",
-    "href": "index.html#available-systems",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "The following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]"
-  },
-  {
-    "objectID": "index.html#termination-of-allocations",
-    "href": "index.html#termination-of-allocations",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "Allocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]"
-  },
-  {
-    "objectID": "index.html#pricing",
-    "href": "index.html#pricing",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "Billing follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]"
-  },
-  {
-    "objectID": "index.html#payment-process",
-    "href": "index.html#payment-process",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "The payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]"
-  },
-  {
-    "objectID": "index.html#support",
-    "href": "index.html#support",
-    "title": "Compute & Storage Resources at SLU",
-    "section": "",
-    "text": "For questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
-  },
-  {
     "objectID": "apply-step1.html",
     "href": "apply-step1.html",
     "title": "Step 1 – Apply for a NAISS/SUPR Account",
@@ -77,11 +28,11 @@
     "text": "Create a SUPR Account\n\nFill out & submit account request form.\n\n\n\n\n\n\n\nTip\n\n\n\n\nUse Register with Federated Identity if you are enrolled in a Swedish university.\nIf you are not enrolled in a Swedish university or if the previous option doesn’t work for you, use instead Register without Federated Identity.\n\n\n\n\nFill in your contact details and affiliation with SLU.\n\nConfirm your email address if requested.\n\n\n\n\n\n\n\nTip\n\n\n\nWhen registering or updating your profile:\n\nSelect SLU as your organisation.\n\nAdd your research group, department or unit in the profile description if relevant.\n\nThis makes it easier to link you to the correct projects and allocations."
   },
   {
-    "objectID": "apply-step1.html#link-to-slu-and-your-group",
-    "href": "apply-step1.html#link-to-slu-and-your-group",
+    "objectID": "apply-step1.html#accept-naiss-user-agreement",
+    "href": "apply-step1.html#accept-naiss-user-agreement",
     "title": "Step 1 – Apply for a NAISS/SUPR Account",
-    "section": "",
-    "text": "When registering or updating your profile:\n\nSelect SLU as your organisation.\n\nAdd your research group, department or unit in the profile description if relevant.\n\nThis makes it easier to link you to the correct projects and allocations."
+    "section": "Accept NAISS user agreement",
+    "text": "Accept NAISS user agreement\nJust after creating the SUPR account, on the page you are taken to, there will be a section titled “User Agreement” at the very top. Just under it is the button named “Accept NAISS User Agreement”.\nAlternately, if you do this at a later point. Login to SUPR. At the very top it will say “NAISS User Agreement Pending”.\n\n\n\n\n\n\nTip\n\n\n\n\nUse With SWAMID if you are enrolled in a Swedish university - this option is much faster!\nIf you are not enrolled in a Swedish university use instead Alternative: Offline via Paper Form. Here you will have to print out, sign and send in the form. This may take up to a week."
   },
   {
     "objectID": "apply-step1.html#after-your-account-is-created",
@@ -133,6 +84,55 @@
     "text": "5. After Approval\nWhen your application is approved:\n\nThe project and allocation are created in SUPR.\n\nUsers added to the project are granted access to the selected systems.\n\nYou can immediately proceed to connect and start using the resources (see Step 3).\n\n\nFor questions about how to fill in the application, contact:\nitsupport@slu.se"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "This page provides an overview of how to apply for compute and storage resources through NAISS/SUPR, what systems are available, how to manage your allocation, and where to get support.\n\n\n\nStep 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval\n\n\n\n\nThe following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]\n\n\n\nAllocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]\n\n\n\nBilling follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]\n\n\n\n\nThe payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]\n\n\n\nFor questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
+  },
+  {
+    "objectID": "index.html#how-to-apply",
+    "href": "index.html#how-to-apply",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "Step 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval"
+  },
+  {
+    "objectID": "index.html#available-systems",
+    "href": "index.html#available-systems",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "The following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]"
+  },
+  {
+    "objectID": "index.html#termination-of-allocations",
+    "href": "index.html#termination-of-allocations",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "Allocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]"
+  },
+  {
+    "objectID": "index.html#pricing",
+    "href": "index.html#pricing",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "Billing follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]"
+  },
+  {
+    "objectID": "index.html#payment-process",
+    "href": "index.html#payment-process",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "The payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]"
+  },
+  {
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "For questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -161,45 +161,38 @@
     "text": "Login and Connection\nYou normally access the systems via SSH from a terminal.\nExample (replace user and host with the correct ones):\nssh your-username@gorilla.XXX\nssh your-username@pelle.XXX\nssh your-username@lutra.XXX\n[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra], VPN?\nIf a VPN or SLU-specific network access is required, add:\nlink to VPN instructions"
   },
   {
-    "objectID": "apply-step1.html#accept-naiss-user-agreement",
-    "href": "apply-step1.html#accept-naiss-user-agreement",
-    "title": "Step 1 – Apply for a NAISS/SUPR Account",
-    "section": "Accept NAISS user agreement",
-    "text": "Accept NAISS user agreement\nJust after creating the SUPR account, on the page you are taken to, there will be a section titled “User Agreement” at the very top. Just under it is the button named “Accept NAISS User Agreement”.\nAlternately, if you do this at a later point. Login to SUPR. At the very top it will say “NAISS User Agreement Pending”.\n\n\n\n\n\n\nTip\n\n\n\n\nUse With SWAMID if you are enrolled in a Swedish university - this option is much faster!\nIf you are not enrolled in a Swedish university use instead Alternative: Offline via Paper Form. Here you will have to print out, sign and send in the form. This may take up to a week."
-  },
-  {
     "objectID": "apply-step3.html#project-and-storage-locations",
     "href": "apply-step3.html#project-and-storage-locations",
     "title": "Step 3 – Access and Use of Granted Resources",
-    "section": "3. Project and Storage Locations",
-    "text": "3. Project and Storage Locations\nAfter logging in, users usually have access to:\n\na personal home directory\n\na project directory linked to the SUPR project\n\na scratch or temporary directory for short-term work\n\n[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra]\nPlease also clarify:\n\nrecommended locations for active project data\n\nscratch data retention rules\n\nprocedures for long-term storage"
+    "section": "Project and Storage Locations",
+    "text": "Project and Storage Locations\nAfter logging in, users usually have access to:\n\na personal home directory\n\na project directory linked to the SUPR project\n\na scratch or temporary directory for short-term work\n\n[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra]\nPlease also clarify:\n\nrecommended locations for active project data\n\nscratch data retention rules\n\nprocedures for long-term storage"
   },
   {
     "objectID": "apply-step3.html#software-and-modules",
     "href": "apply-step3.html#software-and-modules",
     "title": "Step 3 – Access and Use of Granted Resources",
-    "section": "4. Software and Modules",
-    "text": "4. Software and Modules\nThe systems typically use a module-based environment for software management. Users can list, load, and switch between available tools.\n[MORE INFO NEEDED: Confirm the module system in use and list recommended default modules or environments]\nIf container solutions such as Conda, Apptainer, or Singularity are recommended, link or describe them here."
+    "section": "Software and Modules",
+    "text": "Software and Modules\nThe systems typically use a module-based environment for software management. Users can list, load, and switch between available tools.\n[MORE INFO NEEDED: Confirm the module system in use and list recommended default modules or environments]\nIf container solutions such as Conda, Apptainer, or Singularity are recommended, link or describe them here."
   },
   {
     "objectID": "apply-step3.html#running-jobs",
     "href": "apply-step3.html#running-jobs",
     "title": "Step 3 – Access and Use of Granted Resources",
-    "section": "5. Running Jobs",
-    "text": "5. Running Jobs\nCompute jobs are generally submitted through a batch scheduling system such as SLURM.\n[MORE INFO NEEDED: Confirm scheduler type and provide guidance on job submission, job limits, and example workflows]\nClarify:\n\nqueue names (if any)\n\nlimits on job size or runtime\n\nrecommended job submission practices for bioinformatics workloads"
+    "section": "Running Jobs",
+    "text": "Running Jobs\nCompute jobs are generally submitted through a batch scheduling system such as SLURM.\n[MORE INFO NEEDED: Confirm scheduler type and provide guidance on job submission, job limits, and example workflows]\nClarify:\n\nqueue names (if any)\n\nlimits on job size or runtime\n\nrecommended job submission practices for bioinformatics workloads"
   },
   {
     "objectID": "apply-step3.html#monitoring-usage-and-quotas",
     "href": "apply-step3.html#monitoring-usage-and-quotas",
     "title": "Step 3 – Access and Use of Granted Resources",
-    "section": "6. Monitoring Usage and Quotas",
-    "text": "6. Monitoring Usage and Quotas\nUsers should monitor:\n\nstorage consumption\n\nused and remaining CPU/GPU hours\n\nallocation status\n\nMonitoring may be available via the SUPR web portal or local system tools.\n[MORE INFO NEEDED: Describe where users can check quotas and usage metrics]"
+    "section": "Monitoring Usage and Quotas",
+    "text": "Monitoring Usage and Quotas\nUsers should monitor:\n\nstorage consumption\n\nused and remaining CPU/GPU hours\n\nallocation status\n\nMonitoring may be available via the SUPR web portal or local system tools.\n[MORE INFO NEEDED: Describe where users can check quotas and usage metrics]"
   },
   {
     "objectID": "apply-step3.html#end-of-allocation-and-data-management",
     "href": "apply-step3.html#end-of-allocation-and-data-management",
     "title": "Step 3 – Access and Use of Granted Resources",
-    "section": "7. End of Allocation and Data Management",
-    "text": "7. End of Allocation and Data Management\nBefore the allocation ends, users should:\n\nremove unnecessary intermediate files\n\ntransfer long-term data to approved archival storage\n\nensure compliance with SLU data management and security guidelines\n\nThe termination and renewal procedures (notice period, where to request changes, etc.) remain [MORE INFO NEEDED] and will be updated when confirmed.\n\nFor technical support or questions about accessing the systems, contact:\nitsupport@slu.se"
+    "section": "End of Allocation and Data Management",
+    "text": "End of Allocation and Data Management\nBefore the allocation ends, users should:\n\nremove unnecessary intermediate files\n\ntransfer long-term data to approved archival storage\n\nensure compliance with SLU data management and security guidelines\n\nThe termination and renewal procedures (notice period, where to request changes, etc.) remain [MORE INFO NEEDED] and will be updated when confirmed.\n\nFor technical support or questions about accessing the systems, contact:\nitsupport@slu.se"
   }
 ]
