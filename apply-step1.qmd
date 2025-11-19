@@ -22,8 +22,6 @@ You access SUPR here: <https://supr.naiss.se>
 ## Who Can Apply?
 
 - Employees and researchers at SLU  
-- Doctoral students affiliated with SLU  
-- Other users associated with SLU research projects (**[MORE INFO NEEDED: local rules for external collaborators]**)
 
 ## Create a SUPR Account
 
@@ -65,7 +63,10 @@ Once your SUPR account is active, you can:
 - be added as a member to existing projects, and  
 - submit new applications in calls such as **“SLU Local 2025”**.
 
-Continue to [**Step 2**](apply-step2.qmd) to see how to apply for compute and storage resources.
+Continue to see how to apply for compute and storage resources:
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2025\"</a>
+
 
 ---
 
