@@ -21,7 +21,7 @@ You access SUPR here: <https://supr.naiss.se>
 
 ## Who Can Apply?
 
-- Employees and researchers at SLU  
+- Employees and researchers at SLU can apply to get resources via the SLU round. 
 
 ## Create a SUPR Account
 
@@ -39,21 +39,10 @@ You access SUPR here: <https://supr.naiss.se>
 
 When registering or updating your profile:
 
-- Select **SLU** as your organisation.  
+- Select **Sveriges lantbruksuniversitet** as your organisation.  
 - Add your research group, department or unit in the profile description if relevant.  
 
 This makes it easier to link you to the correct projects and allocations.
-:::
-
-## Accept NAISS user agreement
-
-Just after creating the SUPR account, on the page you are taken to, there will be a section titled “User Agreement” at the very top. Just under it is the button named “Accept NAISS User Agreement”. 
-
-Alternately, if you do this at a later point. Login to SUPR. At the very top it will say “NAISS User Agreement Pending”.
-
-::: {.callout-tip}
-- Use `With SWAMID` if you are enrolled in a Swedish university - **this option is much faster!**
-- If you are not enrolled in a Swedish university use instead `Alternative: Offline via Paper Form`. Here you will have to print out, sign and send in the form. **This may take up to a week. **
 :::
 
 ## After Your Account Is Created
@@ -61,11 +50,11 @@ Alternately, if you do this at a later point. Login to SUPR. At the very top it 
 Once your SUPR account is active, you can:
 
 - be added as a member to existing projects, and  
-- submit new applications in calls such as **“SLU Local 2025”**.
+- submit new applications in calls such as **“SLU Local 2026”**.
 
 Continue to see how to apply for compute and storage resources:
 
-<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2025\"</a>
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2026\"</a>
 
 
 ---

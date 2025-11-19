@@ -6,28 +6,30 @@ format:
     toc: true
 ---
 
-Once you have a SUPR account, you can apply for compute and storage resources through the **SLU Local 2025** round.
+Once you have a SUPR account, you can apply for compute and storage resources through the **SLU Local 2026** round.
 
 ## Before You Apply
 
 Prepare the following information:
 
 - Project title and short description  
-- Principal investigator (PI) at SLU  
-- Names and SUPR IDs of key project members (**[MORE INFO NEEDED: are SUPR IDs required for all members?]**)  
 - Estimated compute needs (cores, memory, runtime)  
 - Estimated storage needs (GB or TB, and expected duration)  
 - Internal project number or cost centre for billing (**[MORE INFO NEEDED: required SLU financial details]**)
 
-## Find the “SLU Local 2025” Call in SUPR
+## Find the “SLU Local 2026” Call in SUPR
+
+ **[MORE INFO NEEDED]**
 
 1. Log in to SUPR: <https://supr.naiss.se>  
 2. Go to the section for **Rounds** on the menu on the left side.  
-3. Select **"Compute Rounds"** if you want to apply for computational core hours, or **"Storage Rounds"** if you want to apply for storage resources. You need to apply for both separately. 
-4. Locate the call named **“SLU Local 2025”**.  
-5. Click to start a new application.
+3. Below the panels for the different default rounds, click: **"You can also view all rounds (including closed and decided)."" **
+4. Under **"Local Rounds"** select **"SLU Local 2026"**
+5. Click **"Create new proposal"** to start a new application.
 
 ## Fill in the Application
+
+
 
 Typical sections include:
 

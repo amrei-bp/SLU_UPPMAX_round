@@ -19,7 +19,7 @@ This page provides an overview of how to apply for compute and storage resources
 <a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step1.qmd">Step 1: Apply for a NAISS/SUPR Account</a>
 
 
-<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2025\"</a>
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2026\"</a>
 
 
 <a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Access After Approval</a>
@@ -31,29 +31,30 @@ This page provides an overview of how to apply for compute and storage resources
 
 The following systems can be requested:
 
-- **Gorilla**  
-- **Pelle**  
-- **Lutra**
-
-**[MORE INFO NEEDED: Add optional system descriptions]**
+- **Pelle**: compute resources. Can be applied for individually, or with additional storage on Gorilla. 
+- **Gorilla**: active project storage. Can be applied for individually, or in an application together with a compute project on Pelle. 
+- **Lutra**: long term storage. Needs to be applied for in a separate application from Pelle and/or Gorilla.
 
 ## Termination of Allocations
 
-Allocations must be terminated or renewed when no longer needed. The exact procedure remains **[MORE INFO NEEDED]**.
+Allocations on Pelle and Gorilla can be requested for up to a year at a time. If needed, they can be renewed for up to another year at a time. You will be getting an e-mail that reminds you that the end of the allocation is getting closer. 
+
+Once no longer needed, you can simply not request a prolongation of your project. 
+
+Storage allocations on Lutra will be granted for four years at a time. 
 
 Questions pending confirmation:
-- Is termination handled through SUPR? **[MORE INFO NEEDED]**
-- Is a one‑month notice period required? **[MORE INFO NEEDED]**
-- Should users notify NAISS, SLU IT, or both? **[MORE INFO NEEDED]**
+- Is termination handled through SUPR?  Yes, should be automatic. **[MORE INFO NEEDED]**
+- Is a one‑month notice period required? Again, that should be automatic - if no resources are used none are billed. **[MORE INFO NEEDED]**
+- Should users notify NAISS, SLU IT, or both? Sounded like they don't have to notify anyone, just not use the allocations anymore.  **[MORE INFO NEEDED]**
 
 ## Pricing
 
 Billing follows the NAISS/Uppmax pricing model, but will be send out, and paid to SLU-IT. 
 
-## Pricing (live from UPPMAX)
+## Pricing
 
-The table below is fetched directly from the official  
-[UPPMAX Terms and fees](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees) page at render time.
+The table below is fetched directly from the [UPPMAX Terms and fees](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees) page:.
 
 ```{r}
 #| echo: false
@@ -118,12 +119,15 @@ Based on the [UPPMAX price list](https://www.uu.se/en/centre/uppmax/get-started/
 
 ## Payment Process
 
-The payment process is currently **[MORE INFO NEEDED]**.
+You will be invoiced for the resources your are using, not for the ones you have allocated. 
 
 Points to clarify:
-- Who issues the invoice? NAISS/Uppmax or internal SLU? **[MORE INFO NEEDED]**
-- Where does the researcher enter a project number or cost center? **[MORE INFO NEEDED]**
-- Is internal SLU invoicing used? **[MORE INFO NEEDED]**
+
+- Who issues the invoice? NAISS/Uppmax or internal SLU? Invoice comes from SLU - what's the procedure? **[MORE INFO NEEDED]**
+
+- Where does the researcher enter a project number or cost center? NOT CLEAR YET. **[MORE INFO NEEDED]**
+
+- Is internal SLU invoicing used? Yes, see above. **[MORE INFO NEEDED]**
 
 ## Support
 
