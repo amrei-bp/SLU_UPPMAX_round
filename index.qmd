@@ -48,13 +48,73 @@ Questions pending confirmation:
 
 ## Pricing
 
-Billing follows the NAISS/Uppmax pricing model.  
-Current fees: <https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees>
+Billing follows the NAISS/Uppmax pricing model, but will be send out, and paid to SLU-IT. 
 
-### Example Costs for Typical Sequencing Projects
-Examples will be added when representative project types are selected.
+## Pricing (live from UPPMAX)
 
-**[MORE INFO NEEDED: Provide example project types for cost illustrations]**
+The table below is fetched directly from the official  
+[UPPMAX Terms and fees](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees) page at render time.
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(rvest)
+library(dplyr)
+library(knitr)
+library(kableExtra)
+
+url <- "https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees"
+page <- read_html(url)
+
+# Extract all tables on the page
+tables <- html_table(page, fill = TRUE)
+
+# Assume the first table is the pricing table
+price_table <- tables[[3]]
+
+price_table %>%
+  kable(format = "html", table.attr = "class='table table-striped'", escape = FALSE) %>%
+  kable_styling(full_width = TRUE)
+```
+*** Lutra is sold in increments of 50 TB, 4 year minimum
+
+
+### Example: Annual cost for a small project
+
+Based on the [UPPMAX price list](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees).
+
+#### Storage on Gorilla
+- Data volume: **2 TB**  
+- Price: **0.1 SEK per TB-hour**  
+- Calculation:  
+  *2 TB × 365 days × 24 hours/day × 0.1 SEK/TB-hour*  
+- **Annual storage cost: 1,752 SEK**
+
+#### Compute on Pelle
+- Compute use: **24,000 core-hours**  
+- Price: **0.1 SEK per core-hour**  
+- Calculation:  
+  *24,000 × 0.1 SEK*  
+- **Annual compute cost: 2,400 SEK**
+
+#### **Total annual cost**
+**4,152 SEK**
+
+---
+
+### Example: Annual cost for long term data storage
+
+Based on the [UPPMAX price list](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees). Please remember that Lutra is sold in increments of 50 TB, at 4 year minimum. 
+
+#### Storage on Lutra
+- Data volume: **50 TB**  
+- Price: **500 SEK per TB-year**  
+- Calculation:  
+  *50 TB × 500 SEK/TB-year*  
+- **Annual storage cost: 2,500 SEK**
+
 
 ## Payment Process
 
@@ -69,4 +129,4 @@ Points to clarify:
 
 For questions about accounts, applications, or technical issues, contact:
 
-**itsupport@slu.se**
+**support@slu.se**

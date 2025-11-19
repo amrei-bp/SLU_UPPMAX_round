@@ -7,6 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: apply-step1.qmd
+        text: "Step 1: NAISS account"
+      - href: apply-step2.qmd
+        text: "Step 2: SLU Local 2025"
+      - href: apply-step3.qmd
+        text: "Step 3: Access to UPPMAX"
       - about.qmd
 
 format:

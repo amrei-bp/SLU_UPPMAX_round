@@ -95,4 +95,4 @@ The termination and renewal procedures (notice period, where to request changes,
 ---
 
 For technical support or questions about accessing the systems, contact:  
-**itsupport@slu.se**
+**support@slu.se**

@@ -18,7 +18,7 @@
     "href": "apply-step1.html#who-can-apply",
     "title": "Step 1 – Apply for a NAISS/SUPR Account",
     "section": "Who Can Apply?",
-    "text": "Who Can Apply?\n\nEmployees and researchers at SLU\n\nDoctoral students affiliated with SLU\n\nOther users associated with SLU research projects ([MORE INFO NEEDED: local rules for external collaborators])"
+    "text": "Who Can Apply?\n\nEmployees and researchers at SLU"
   },
   {
     "objectID": "apply-step1.html#create-a-supr-account",
@@ -39,7 +39,7 @@
     "href": "apply-step1.html#after-your-account-is-created",
     "title": "Step 1 – Apply for a NAISS/SUPR Account",
     "section": "After Your Account Is Created",
-    "text": "After Your Account Is Created\nOnce your SUPR account is active, you can:\n\nbe added as a member to existing projects, and\n\nsubmit new applications in calls such as “SLU Local 2025”.\n\nContinue to Step 2 to see how to apply for compute and storage resources.\n\nFor questions or problems with registration, contact:\nitsupport@slu.se"
+    "text": "After Your Account Is Created\nOnce your SUPR account is active, you can:\n\nbe added as a member to existing projects, and\n\nsubmit new applications in calls such as “SLU Local 2025”.\n\nContinue to see how to apply for compute and storage resources:\nStep 2: Apply for Resources via \"SLU Local 2025\"\n\nFor questions or problems with registration, contact:\nitsupport@slu.se"
   },
   {
     "objectID": "apply-step2.html",
@@ -81,14 +81,14 @@
     "href": "apply-step2.html#after-approval",
     "title": "Step 2 – Apply for Resources via SLU Local 2025",
     "section": "5. After Approval",
-    "text": "5. After Approval\nWhen your application is approved:\n\nThe project and allocation are created in SUPR.\n\nUsers added to the project are granted access to the selected systems.\n\nYou can immediately proceed to connect and start using the resources (see Step 3).\n\n\nFor questions about how to fill in the application, contact:\nitsupport@slu.se"
+    "text": "5. After Approval\nWhen your application is approved:\n\nThe project and allocation are created in SUPR.\n\nUsers added to the project are granted access to the selected systems.\n\nYou can immediately proceed to connect and start using the resources:\n\nStep 3: Access After Approval\n\nFor questions about how to fill in the application, contact:\nitsupport@slu.se"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Compute & Storage Resources at SLU",
     "section": "",
-    "text": "This page provides an overview of how to apply for compute and storage resources through NAISS/SUPR, what systems are available, how to manage your allocation, and where to get support.\n\n\n\nStep 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval\n\n\n\n\nThe following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]\n\n\n\nAllocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]\n\n\n\nBilling follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]\n\n\n\n\nThe payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]\n\n\n\nFor questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
+    "text": "This page provides an overview of how to apply for compute and storage resources through NAISS/SUPR, what systems are available, how to manage your allocation, and where to get support.\n\n\n\nStep 1: Apply for a NAISS/SUPR Account\nStep 2: Apply for Resources via \"SLU Local 2025\"\nStep 3: Access After Approval\n\n\n\n\nThe following systems can be requested:\n\nGorilla\n\nPelle\n\nLutra\n\n[MORE INFO NEEDED: Add optional system descriptions]\n\n\n\nAllocations must be terminated or renewed when no longer needed. The exact procedure remains [MORE INFO NEEDED].\nQuestions pending confirmation: - Is termination handled through SUPR? [MORE INFO NEEDED] - Is a one‑month notice period required? [MORE INFO NEEDED] - Should users notify NAISS, SLU IT, or both? [MORE INFO NEEDED]\n\n\n\nBilling follows the NAISS/Uppmax pricing model, but will be send out, and paid to SLU-IT.\n\n\n\nThe table below is fetched directly from the official\nUPPMAX Terms and fees page at render time.\n\n\n\n\n\nService\nPelle\nPelle Cloud\nMaja\n\n\n\n\nCPU\n0.10 SEK/core-hour\n0.12 SEK/core-hour\n0.14 SEK/core-hour\n\n\nCPU High-memory\n0.40 SEK/core-timme\n0.50 SEK/core-timme\n0.60 SEK/core-hour\n\n\nGPU Small*\n0.40 SEK/GPU-hour\n0.50 SEK/GPU-hour\n0.60 SEK/GPU-hour\n\n\nGPU Medium**\n2.75 SEK/GPU-hour\n3.2 SEK/GPU-hour\n4 SEK/GPU-hour\n\n\nGPU H100\n11.50 SEK/GPU-hour\n14 SEK/GPU-hour\n16.50 SEK/GPU-hour\n\n\nGorilla\n0.10 SEK/TB-hour\n0.12 SEK/TB-hour\n0.15 SEK/TB-hour\n\n\nLutra***\n500 SEK/TB-year\nN/A\nN/A\n\n\nConsulting\n800 SEK/hour\n800 SEK/hour\n800 SEK/hour\n\n\n\n\n\n\n\n*** Lutra is sold in increments of 50 TB, 4 year minimum\n\n\nBased on the UPPMAX price list.\n\n\n\nData volume: 2 TB\n\nPrice: 0.1 SEK per TB-hour\n\nCalculation:\n2 TB × 365 days × 24 hours/day × 0.1 SEK/TB-hour\n\nAnnual storage cost: 1,752 SEK\n\n\n\n\n\nCompute use: 24,000 core-hours\n\nPrice: 0.1 SEK per core-hour\n\nCalculation:\n24,000 × 0.1 SEK\n\nAnnual compute cost: 2,400 SEK\n\n\n\n\n4,152 SEK\n\n\n\n\n\nBased on the UPPMAX price list. Please remember that Lutra is sold in increments of 50 TB, at 4 year minimum.\n\n\n\nData volume: 50 TB\n\nPrice: 500 SEK per TB-year\n\nCalculation:\n50 TB × 500 SEK/TB-year\n\nAnnual storage cost: 2,500 SEK\n\n\n\n\n\n\nThe payment process is currently [MORE INFO NEEDED].\nPoints to clarify: - Who issues the invoice? NAISS/Uppmax or internal SLU? [MORE INFO NEEDED] - Where does the researcher enter a project number or cost center? [MORE INFO NEEDED] - Is internal SLU invoicing used? [MORE INFO NEEDED]\n\n\n\nFor questions about accounts, applications, or technical issues, contact:\nitsupport@slu.se"
   },
   {
     "objectID": "index.html#how-to-apply",
@@ -116,7 +116,7 @@
     "href": "index.html#pricing",
     "title": "Compute & Storage Resources at SLU",
     "section": "",
-    "text": "Billing follows the NAISS/Uppmax pricing model.\nCurrent fees: https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees\n\n\nExamples will be added when representative project types are selected.\n[MORE INFO NEEDED: Provide example project types for cost illustrations]"
+    "text": "Billing follows the NAISS/Uppmax pricing model, but will be send out, and paid to SLU-IT."
   },
   {
     "objectID": "index.html#payment-process",
@@ -137,7 +137,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This initiative is a joint collaboration between SLU, represented by the SLU Bioinformatics Infrastructure (SLUBI) and SLU IT, and UPPMAX at Uppsala University.\nTogether, these partners provide access to high-performance compute and storage resources, user support, and the technical expertise needed to enable efficient and secure data-intensive research at SLU."
   },
   {
     "objectID": "apply-step3.html",
@@ -194,5 +194,12 @@
     "title": "Step 3 – Access and Use of Granted Resources",
     "section": "End of Allocation and Data Management",
     "text": "End of Allocation and Data Management\nBefore the allocation ends, users should:\n\nremove unnecessary intermediate files\n\ntransfer long-term data to approved archival storage\n\nensure compliance with SLU data management and security guidelines\n\nThe termination and renewal procedures (notice period, where to request changes, etc.) remain [MORE INFO NEEDED] and will be updated when confirmed.\n\nFor technical support or questions about accessing the systems, contact:\nitsupport@slu.se"
+  },
+  {
+    "objectID": "index.html#pricing-live-from-uppmax",
+    "href": "index.html#pricing-live-from-uppmax",
+    "title": "Compute & Storage Resources at SLU",
+    "section": "",
+    "text": "The table below is fetched directly from the official\nUPPMAX Terms and fees page at render time.\n\n\n\n\n\nService\nPelle\nPelle Cloud\nMaja\n\n\n\n\nCPU\n0.10 SEK/core-hour\n0.12 SEK/core-hour\n0.14 SEK/core-hour\n\n\nCPU High-memory\n0.40 SEK/core-timme\n0.50 SEK/core-timme\n0.60 SEK/core-hour\n\n\nGPU Small*\n0.40 SEK/GPU-hour\n0.50 SEK/GPU-hour\n0.60 SEK/GPU-hour\n\n\nGPU Medium**\n2.75 SEK/GPU-hour\n3.2 SEK/GPU-hour\n4 SEK/GPU-hour\n\n\nGPU H100\n11.50 SEK/GPU-hour\n14 SEK/GPU-hour\n16.50 SEK/GPU-hour\n\n\nGorilla\n0.10 SEK/TB-hour\n0.12 SEK/TB-hour\n0.15 SEK/TB-hour\n\n\nLutra***\n500 SEK/TB-year\nN/A\nN/A\n\n\nConsulting\n800 SEK/hour\n800 SEK/hour\n800 SEK/hour\n\n\n\n\n\n\n\n*** Lutra is sold in increments of 50 TB, 4 year minimum\n\n\nBased on the UPPMAX price list.\n\n\n\nData volume: 2 TB\n\nPrice: 0.1 SEK per TB-hour\n\nCalculation:\n2 TB × 365 days × 24 hours/day × 0.1 SEK/TB-hour\n\nAnnual storage cost: 1,752 SEK\n\n\n\n\n\nCompute use: 24,000 core-hours\n\nPrice: 0.1 SEK per core-hour\n\nCalculation:\n24,000 × 0.1 SEK\n\nAnnual compute cost: 2,400 SEK\n\n\n\n\n4,152 SEK\n\n\n\n\n\nBased on the UPPMAX price list. Please remember that Lutra is sold in increments of 50 TB, at 4 year minimum.\n\n\n\nData volume: 50 TB\n\nPrice: 500 SEK per TB-year\n\nCalculation:\n50 TB × 500 SEK/TB-year\n\nAnnual storage cost: 2,500 SEK"
   }
 ]

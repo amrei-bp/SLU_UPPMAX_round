@@ -71,4 +71,4 @@ Continue to see how to apply for compute and storage resources:
 ---
 
 For questions or problems with registration, contact:  
-**itsupport@slu.se**
+**support@slu.se**
