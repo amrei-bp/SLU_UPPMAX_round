@@ -132,19 +132,27 @@ If you want to designate a **proxy** (someone else who can manage the proposal o
 
 From the drop-down menu, you can add resources to the proposal. Select the resource that you want to add, and click `Add Resource to Proposal`. 
 
-You have three options: 
+You have three options, choose one of the tabs below: 
 
-1. Choose `Lutra` if you want to apply for **long term storage**. Then you cannot apply for any of the other resources. If you want to apply for other resources, you need to fill in a separate application. 
+:::: {.panel-tabset}
 
-    Lutra is allocated for four years at a time, in increments of 50 TB. Choose at minimum 50 000 GiB. 
+#### Lutra, long term storage
 
-    You can choose a custom directory name for your project, or accept the automatic default. 
+Choose `Lutra` if you want to apply for **long term storage**. Then you cannot apply for any of the other resources. If you want to apply for other resources, you need to fill in a separate application. 
+
+Lutra is allocated for four years at a time, in increments of 50 TB. Choose at minimum 50 000 GiB. 
+
+You can choose a custom directory name for your project, or accept the automatic default. 
 
 ::: {.callout-tip}
-    The number of files depends on the type of data you want to store. As a rule of thumb, you can calculate around 1 million files per TB of data. 
+The number of files depends on the type of data you want to store. As a rule of thumb, you can calculate around 1 million files per TB of data. 
 :::
 
-2. Choose `Pelle` if you want to have a project with **both compute and storage capacity**. You can either choose computation with the default storage capacity of **500 GiB** and **1 000 000 files**, or add more storage on `Gorilla` to the same proposal. You can choose a custom directory name for your project, or accept the automatic default. 
+#### Pelle, compute resources
+
+Choose `Pelle` if you want to have a project with **both compute and storage capacity**. 
+
+You can either choose computation with the default storage capacity of **500 GiB** and **1 000 000 files**, or add more storage on `Gorilla` to the same proposal. You can choose a custom directory name for your project, or accept the automatic default. 
 
 ::: {.callout-tip}
 The number of core hours you should request depends on the type of project you will work on. As a rule of thumb you can calculate with 1 000 h/ month for every 1TB of data you expect to have. 
@@ -152,11 +160,17 @@ The number of core hours you should request depends on the type of project you w
 For a small project, applying for 2 - 3 thousand hours is usually sufficient. 
 :::
 
-3. Choose `Gorilla` if you only want active storage capacity. You can choose a custom directory name for your project, or accept the automatic default.  
+#### Gorilla, active project storage
+
+Choose `Gorilla` if you only want active storage capacity, **without compute resources**. 
+
+You can choose a custom directory name for your project, or accept the automatic default.  
 
 ::: {.callout-tip}
 If you want to analyse the data, multiply the amount of raw data by 5 to 7. Then calculate the number of files with 1 mio per 1TB of data. 
 :::
+
+::::
 
 ### Cancellation
 
