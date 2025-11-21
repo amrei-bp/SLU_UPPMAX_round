@@ -136,12 +136,12 @@ You have three options:
 
 1. Choose `Lutra` if you want to apply for **long term storage**. Then you cannot apply for any of the other resources. If you want to apply for other resources, you need to fill in a separate application. 
 
-Lutra is allocated for four years at a time, in increments of 50 TB. Choose at minimum 50 000 GiB. 
+    Lutra is allocated for four years at a time, in increments of 50 TB. Choose at minimum 50 000 GiB. 
 
-You can choose a custom directory name for your project, or accept the automatic default. 
+    You can choose a custom directory name for your project, or accept the automatic default. 
 
 ::: {.callout-tip}
-The number of files depends on the type of data you want to store. As a rule of thumb, you can calculate around 1 million files per TB of data. 
+    The number of files depends on the type of data you want to store. As a rule of thumb, you can calculate around 1 million files per TB of data. 
 :::
 
 2. Choose `Pelle` if you want to have a project with **both compute and storage capacity**. You can either choose computation with the default storage capacity of **500 GiB** and **1 000 000 files**, or add more storage on `Gorilla` to the same proposal. You can choose a custom directory name for your project, or accept the automatic default. 
@@ -194,6 +194,7 @@ When your application is approved:
 If you **already have an account at UPPMAX**, you can immediately proceed to connect and start using the resources:
 
 <a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step4.qmd">Step 4: Access after Approval</a>
+
 ---
 
 For questions about how to fill in the application, contact:  
