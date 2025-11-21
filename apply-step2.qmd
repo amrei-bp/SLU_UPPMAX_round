@@ -2,7 +2,6 @@
 title: "Step 2 – Apply for Resources via SLU Local 2025"
 format:
   html:
-    theme: cosmo
     toc: true
 ---
 
@@ -86,16 +85,21 @@ Provide:
 
 **[MORE INFO NEEDED: expected review time and decision schedule]**
 
-## 5. After Approval
+## After Approval
 
 When your application is approved:
 
-- The project and allocation are created in SUPR.  
+- The project and allocation are created in SUPR, and activated from the requested starting date.  
 - Users added to the project are granted access to the selected systems.  
-- You can immediately proceed to connect and start using the resources:
 
-<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Access After Approval</a>
+**If you do not have an account at UPPMAX**, you need to apply for one before you can access the servers: 
 
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Apply for an UPPMAX account</a>
+
+
+If you **already have an account at UPPMAX**, you can immediately proceed to connect and start using the resources:
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step4.qmd">Step 4: Access after Approval</a>
 ---
 
 For questions about how to fill in the application, contact:  

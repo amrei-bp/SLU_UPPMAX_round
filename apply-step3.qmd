@@ -1,98 +1,56 @@
 ---
-title: "Step 3 – Access and Use of Granted Resources"
+title: "Step 3 – Apply for a UPPMAX Account"
 format:
   html:
-    theme: cosmo
     toc: true
 ---
 
-When your project has been approved in SUPR, your allocation on **Gorilla**, **Pelle** and/or **Lutra** becomes active.
+# Apply for a UPPMAX Account
 
-## When Is Access Activated?
+Once your project has been approved in SUPR, your allocation on **Gorilla**, **Pelle**, and/or **Lutra** becomes active.  
+To log in to these systems, you must also have a **UPPMAX user account**. This account is separate from SUPR and is required for accessing the compute clusters operated by UPPMAX.
 
-- Access is granted as soon as the allocation is approved and registered in SUPR.  
-- You do not need to submit any additional forms.  
-- You and your project members can log in using your existing credentials.
+## Why You Need a UPPMAX Account
 
-**[MORE INFO NEEDED: typical delay between decision and technical activation, if any]**
+The UPPMAX systems (Gorilla, Pelle, Lutra) are operated by Uppsala University.  
 
-## Login and Connection
+SUPR is used to manage the resources applications and allocations, but you still need a local UPPMAX user account so you can:
 
-You normally access the systems via SSH from a terminal.
+- log in via SSH  
+- access project directories  
+- run jobs on the clusters  
+- use software modules and storage areas  
 
-Example (replace user and host with the correct ones):
+## How to Apply for a UPPMAX Account
 
-```.bash
-ssh your-username@gorilla.XXX
-ssh your-username@pelle.XXX
-ssh your-username@lutra.XXX
-```
 
-**[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra], VPN?**
+1. Log into SUPR here: <https://supr.naiss.se>, using the same identity you used for SUPR.  
+2. In the left hand menu, click `Accounts`.  
+3. Under the heading `Account Requests`, click `Request account`.
 
-If a VPN or SLU-specific network access is required, add:
+**[MORE INFO NEEDED]**
 
-link to VPN instructions
+## Approval and Activation
 
-## Project and Storage Locations
+- UPPMAX staff will approve your request and create your user account.  
+- Once created, you will receive an email with login details (including your username).  
+- After activation, you can log in to Gorilla, Pelle, or Lutra immediately.
 
-After logging in, users usually have access to:
+## After You Have Your Account
 
-- a personal home directory  
-- a project directory linked to the SUPR project  
-- a scratch or temporary directory for short-term work  
+When your UPPMAX account is active, you can:
 
-**[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra]**
+- connect to the clusters via SSH  
+- access your project directory  
+- start running jobs and workflows  
+- use software modules and storage areas  
+- monitor resource usage
 
-Please also clarify:
+Click below for a shoer summary of how to log on and work on the servers. 
 
-- recommended locations for active project data  
-- scratch data retention rules  
-- procedures for long-term storage  
-
-## Software and Modules
-
-The systems typically use a module-based environment for software management. Users can list, load, and switch between available tools.
-
-**[MORE INFO NEEDED: Confirm the module system in use and list recommended default modules or environments]**
-
-If container solutions such as Conda, Apptainer, or Singularity are recommended, link or describe them here.
-
-## Running Jobs
-
-Compute jobs are generally submitted through a batch scheduling system such as SLURM.
-
-**[MORE INFO NEEDED: Confirm scheduler type and provide guidance on job submission, job limits, and example workflows]**
-
-Clarify:
-
-- queue names (if any)  
-- limits on job size or runtime  
-- recommended job submission practices for bioinformatics workloads  
-
-## Monitoring Usage and Quotas
-
-Users should monitor:
-
-- storage consumption  
-- used and remaining CPU/GPU hours  
-- allocation status  
-
-Monitoring may be available via the SUPR web portal or local system tools.
-
-**[MORE INFO NEEDED: Describe where users can check quotas and usage metrics]**
-
-## End of Allocation and Data Management
-
-Before the allocation ends, users should:
-
-- remove unnecessary intermediate files  
-- transfer long-term data to approved archival storage  
-- ensure compliance with SLU data management and security guidelines  
-
-The termination and renewal procedures (notice period, where to request changes, etc.) remain **[MORE INFO NEEDED]** and will be updated when confirmed.
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step4.qmd">Step 4: Access after Approval</a>
 
 ---
 
-For technical support or questions about accessing the systems, contact:  
+For questions or problems with your UPPMAX account, contact:  
 **support@slu.se**

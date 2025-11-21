@@ -22,7 +22,10 @@ This page provides an overview of how to apply for pay-as-you-use compute and st
 <a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step2.qmd">Step 2: Apply for Resources via \"SLU Local 2026\"</a>
 
 
-<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Access After Approval</a>
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step3.qmd">Step 3: Apply for an Uppmax account</a>
+
+
+<a class="btn btn-primary w-100" role="button" style="padding: 1rem; font-size: 1.1rem;" href="apply-step4.qmd">Step 4: Access After Approval</a>
 
 
 </div>

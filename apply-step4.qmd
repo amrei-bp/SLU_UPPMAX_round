@@ -1,0 +1,97 @@
+---
+title: "Step 3 – Access and Use of Granted Resources"
+format:
+  html:
+    toc: true
+---
+
+When your project has been approved in SUPR, your allocation on **Gorilla**, **Pelle** and/or **Lutra** becomes active.
+
+## When Is Access Activated?
+
+- Access is granted as soon as the allocation is approved and registered in SUPR.  
+- You do not need to submit any additional forms.  
+- You and your project members can log in using your existing credentials.
+
+**[MORE INFO NEEDED: typical delay between decision and technical activation, if any]**
+
+## Login and Connection
+
+You normally access the systems via SSH from a terminal.
+
+Example (replace user and host with the correct ones):
+
+```.bash
+ssh your-username@gorilla.XXX
+ssh your-username@pelle.uppmax.uu.se
+ssh your-username@lutra.XXX
+```
+
+**[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra], VPN?**
+
+If a VPN or SLU-specific network access is required, add:
+
+link to VPN instructions
+
+## Project and Storage Locations
+
+After logging in, users usually have access to:
+
+- a personal home directory  
+- a project directory linked to the SUPR project  
+- a scratch or temporary directory for short-term work  
+
+**[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra]**
+
+Please also clarify:
+
+- recommended locations for active project data  
+- scratch data retention rules  
+- procedures for long-term storage  
+
+## Software and Modules
+
+The systems typically use a module-based environment for software management. Users can list, load, and switch between available tools.
+
+**[MORE INFO NEEDED: Confirm the module system in use and list recommended default modules or environments]**
+
+If container solutions such as Conda, Apptainer, or Singularity are recommended, link or describe them here.
+
+## Running Jobs
+
+Compute jobs are generally submitted through a batch scheduling system such as SLURM.
+
+**[MORE INFO NEEDED: Confirm scheduler type and provide guidance on job submission, job limits, and example workflows]**
+
+Clarify:
+
+- queue names (if any)  
+- limits on job size or runtime  
+- recommended job submission practices for bioinformatics workloads  
+
+## Monitoring Usage and Quotas
+
+Users should monitor:
+
+- storage consumption  
+- used and remaining CPU/GPU hours  
+- allocation status  
+
+Monitoring may be available via the SUPR web portal or local system tools.
+
+**[MORE INFO NEEDED: Describe where users can check quotas and usage metrics]**
+
+## End of Allocation and Data Management
+
+Before the allocation ends, users should:
+
+- remove unnecessary intermediate files  
+- transfer long-term data to approved archival storage  
+- ensure compliance with SLU data management and security guidelines  
+
+The termination and renewal procedures (notice period, where to request changes, etc.) remain **[MORE INFO NEEDED]** and will be updated when confirmed.
+
+---
+
+For technical support or questions about accessing the systems, contact:  
+**support@slu.se**

@@ -12,7 +12,9 @@ website:
       - href: apply-step2.qmd
         text: "Step 2: SLU Local 2025"
       - href: apply-step3.qmd
-        text: "Step 3: Access to UPPMAX"
+        text: "Step 3: UPPMAX account"
+      - href: apply-step4.qmd
+        text: "Step 4: Access after Approval"
       - about.qmd
 
 format:
