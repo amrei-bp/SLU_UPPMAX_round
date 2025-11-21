@@ -26,7 +26,8 @@ SUPR is used to manage the resources applications and allocations, but you still
 
 1. Log into SUPR here: <https://supr.naiss.se>, using the same identity you used for SUPR.  
 2. In the left hand menu, click `Accounts`.  
-3. Under the heading `Account Requests`, click `Request account`.
+3. Under the heading `Account Requests`, you should find the project that got approved. 
+4. Click `Request account`.
 
 **[MORE INFO NEEDED]**
 

@@ -24,58 +24,152 @@ Prepare the following information:
 2. Go to the section for **Rounds** on the menu on the left side.  
 3. Below the panels for the different default rounds, click: **"You can also view all rounds (including closed and decided)."" **
 4. Under **"Local Rounds"** select **"SLU Local 2026"**
-5. Click **"Create new proposal"** to start a new application.
+5. Click **"Create New Proposal for SLU Local 2026"** to start a new application.
 
 ## Fill in the Application
 
+When you apply for resources in the SLU Local 2026 round, you can create your proposal in two different ways.
 
+**Option 1: Create a new proposal**
 
-Typical sections include:
+If you have not applied for a project before, or want to start a new one you need to start a completely new proposal and enter everything from scratch.
 
-### Project Information
+Fill in the title of your project and click `Create New Proposal`for this option. 
 
-- **Project title**  
-- **Scientific area** (e.g. bioinformatics, genomics, ecology)  
-- **Short abstract** in clear, non-technical language  
-- **Extended description** of methods and type of analyses
+**Option 2: Copy an earlier proposal**
 
-### Resources Requested
+If you have applied before, you can save time by copying (cloning) one of your previous proposals.
+To do this, choose an earlier proposal from the list. SUPR will use it as a template, and you can update or change any details as needed.
 
-Describe what you need on:
+Choose which proposal to clone from the drop-down menu and click `Clone Proposal` for this option. 
 
-- **Gorilla**  
-- **Pelle**  
-- **Lutra**  
+## Application sections
 
-For each system, specify:
+The application comes in several different sections. Each section starts with a title, the information that is already listed, or needed, and a grey button that lets you add to or change information. Fields marked with a red asteriks are mandatory. Once you have edited the information in a section, click `Save Changes` to commit them to the proposal.
 
-- type of workload (e.g. RNA-seq, WGS, metagenomics, modelling)  
-- number of cores / nodes needed  
-- expected walltime per job  
-- total compute hours required over the project period  
-- storage needs (active project storage and any longer-term storage)
+### Proposal
 
-**[MORE INFO NEEDED: specific unit used for compute accounting – core hours, CPU hours, GPU hours, etc.]**
+General information of the proposal. These fields help identify your proposal and show where it is in the application process. You will not have to change anything here. 
 
-### Project Members
+### Basic Information
 
-Add:
+This is the first section you need to edit. 
 
-- PI and co-applicants  
-- other users who should have access to the allocation  
+#### Project Title
 
-All listed users normally need a SUPR account.
+Choose a short and clear title that describes your project.  
+Example: *Genome assembly of forest insect pests*.
 
-### Budget and Billing
+#### Affiliation 
+
+Make sure you select **Sveriges lantbruksuniversitet** for the affiliation. 
+
+#### Abstract
+
+**[MORE INFO NEEDED - payment information]**
+
+Write a short summary of your project in plain language.  
+Include:
+
+- what you will study  
+- what methods you will use  
+- what you need the compute and storage resources for  
+
+Budget and Billing Information
 
 Provide:
 
 - SLU project number and/or cost centre  
 - responsible person for the budget  
+**Without that your project will not be approved. **
 
 **[MORE INFO NEEDED: exact format of project numbers and any required reference text for invoices]**
 
-## Submission and Review
+This text helps reviewers understand the purpose of your project.
+
+#### Resource Usage
+
+**[MORE INFO NEEDED - how much do we need here?]**
+
+Describe how you plan to use the compute and storage resources. For example:
+
+- type of analyses (RNA-seq, WGS, metagenomics, modelling, etc.)  
+- expected number of samples or runs  
+- how often you will run jobs (e.g. daily, weekly, only in certain periods)  
+
+This helps show that the requested resources match your planned work.
+
+#### Requested Duration and Start Date
+
+Set how long you want the allocation to last. With the drop-down menu, you can choose any duration between 1 month and 1 year, in one month increments. 
+
+Set a desired start day. If you do not choose anything, the date will be as soon as possible. 
+
+### Classification
+
+Here you give the **scientific area** of your project. 
+
+Start typing and choose from the selection, or select from the provided homepage. 
+
+### Continuation
+
+This section shows whether your proposal is linked to an earlier project.
+
+If it is a new project you do not have to do anything. If this project is meant to be a continuation from an earlier project, click `Change`and select from the list that will be presented to you. 
+
+### Co-Investigators
+
+You can add co-investigators to the application if other people should:
+
+- help manage the project  
+- have access to the compute and storage resources
+
+::: {.callout-tip}
+If you want to designate a **proxy** (someone else who can manage the proposal or project on your behalf), you must first add this person as a **co-investigator**.
+:::
+
+### Resources
+
+From the drop-down menu, you can add resources to the proposal. Select the resource that you want to add, and click `Add Resource to Proposal`. 
+
+You have three options: 
+
+1. Choose `Lutra` if you want to apply for **long term storage**. Then you cannot apply for any of the other resources. If you want to apply for other resources, you need to fill in a separate application. 
+
+Lutra is allocated for four years at a time, in increments of 50 TB. Choose at minimum 50 000 GiB. 
+
+You can choose a custom directory name for your project, or accept the automatic default. 
+
+::: {.callout-tip}
+The number of files depends on the type of data you want to store. As a rule of thumb, you can calculate around 1 million files per TB of data. 
+:::
+
+2. Choose `Pelle` if you want to have a project with **both compute and storage capacity**. You can either choose computation with the default storage capacity of **500 GiB** and **1 000 000 files**, or add more storage on `Gorilla` to the same proposal. You can choose a custom directory name for your project, or accept the automatic default. 
+
+::: {.callout-tip}
+The number of core hours you should request depends on the type of project you will work on. As a rule of thumb you can calculate with 1 000 h/ month for every 1TB of data you expect to have. 
+
+For a small project, applying for 2 - 3 thousand hours is usually sufficient. 
+:::
+
+3. Choose `Gorilla` if you only want active storage capacity. You can choose a custom directory name for your project, or accept the automatic default.  
+
+::: {.callout-tip}
+If you want to analyse the data, multiply the amount of raw data by 5 to 7. Then calculate the number of files with 1 mio per 1TB of data. 
+:::
+
+### Cancellation
+
+If you decide that you **do not** want to submit the proposal:
+
+- You can **cancel** it using the cancellation button in this section.
+
+Use this if the proposal was created by mistake or if the project will not go ahead.
+
+
+### Submission
+
+Your proposal will only be considered for allocation if you **submit** it.
 
 1. Check that all mandatory fields are completed.  
 2. Submit the application in SUPR.  
