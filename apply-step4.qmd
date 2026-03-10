@@ -17,14 +17,10 @@ When your project has been approved in SUPR, your allocation on **Gorilla**, **P
 
 ## Login and Connection
 
-You normally access the systems via SSH from a terminal.
-
-Example (replace user and host with the correct ones):
+You normally access the systems via SSH from a terminal:
 
 ```.bash
-ssh your-username@gorilla.XXX
 ssh your-username@pelle.uppmax.uu.se
-ssh your-username@lutra.XXX
 ```
 
 **[MORE INFO NEEDED: Exact directory paths and structure on Gorilla, Pelle, and Lutra], VPN?**
@@ -53,19 +49,18 @@ Please also clarify:
 
 The systems typically use a module-based environment for software management. Users can list, load, and switch between available tools.
 
-**[MORE INFO NEEDED: Confirm the module system in use and list recommended default modules or environments]**
+**[MORE INFO NEEDED: List recommended default modules or environments]**
 
-If container solutions such as Conda, Apptainer, or Singularity are recommended, link or describe them here.
+Talk about containers such as Conda, Apptainer, or Singularity, link to how-to's or describe them here.
 
 ## Running Jobs
 
 Compute jobs are generally submitted through a batch scheduling system such as SLURM.
 
-**[MORE INFO NEEDED: Confirm scheduler type and provide guidance on job submission, job limits, and example workflows]**
+**[MORE INFO NEEDED: Link to Uppmax documentation]**
 
 Clarify:
 
-- queue names (if any)  
 - limits on job size or runtime  
 - recommended job submission practices for bioinformatics workloads  
 
@@ -77,9 +72,9 @@ Users should monitor:
 - used and remaining CPU/GPU hours  
 - allocation status  
 
-Monitoring may be available via the SUPR web portal or local system tools.
+Monitoring is available via the SUPR web portal or local system tools.
 
-**[MORE INFO NEEDED: Describe where users can check quotas and usage metrics]**
+**[MORE INFO NEEDED: Describe how to check quotas and usage metrics]**
 
 ## End of Allocation and Data Management
 
