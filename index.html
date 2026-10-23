@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.19">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>Compute &amp; Storage Resources for SLU – SLU_UPPMAX_round</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -32,15 +38,14 @@ ul.task-list li input[type="checkbox"] {
 <meta name="quarto:offset" content="./">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-afa37c5c79185640b9c231024f4fe5ea.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-55617497126496852ff9f5a59253c640.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -102,7 +107,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./apply-step2.html"> 
-<span class="menu-text">Step 2: SLU Local 2025</span></a>
+<span class="menu-text">Step 2: SLU Local 2026</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./apply-step3.html"> 
@@ -196,11 +201,10 @@ ul.task-list li input[type="checkbox"] {
 <p>Allocations on Pelle and Gorilla can be requested for up to a year at a time. If needed, they can be renewed for up to another year at a time, for as long as you need the resources. You will receive an email reminder before your current allocation expires.</p>
 <p>Once no longer needed, you can simply remove your data and not request a prolongation of your project when it is running out.</p>
 <p>Storage allocations on Lutra will be granted for four years at a time.</p>
-<p>Questions pending confirmation: - Is termination handled through SUPR? Yes, should be automatic. <strong>[MORE INFO NEEDED]</strong> - Is a one‑month notice period required? Again, that should be automatic - if no resources are used none are billed. <strong>[MORE INFO NEEDED]</strong> - Should users notify NAISS, SLU IT, or both? Sounded like they don’t have to notify anyone, just not use the allocations anymore. <strong>[MORE INFO NEEDED]</strong></p>
 </section>
 <section id="pricing" class="level2">
 <h2 class="anchored" data-anchor-id="pricing">Pricing</h2>
-<p>The table below is fetched from the <a href="https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees">UPPMAX Terms and fees</a> page:.</p>
+<p>The table below is fetched from the <a href="https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees">UPPMAX Terms and fees</a> page:</p>
 <div class="cell">
 <div class="cell-output-display">
 <table class="table table-striped caption-top table-sm small">
@@ -233,17 +237,17 @@ ul.task-list li input[type="checkbox"] {
 <td style="text-align: left;">3.2 SEK/GPU-hour</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">GPU H100</td>
+<td style="text-align: left;">GPU Large</td>
 <td style="text-align: left;">11.50 SEK/GPU-hour</td>
 <td style="text-align: left;">14 SEK/GPU-hour</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Gorilla</td>
+<td style="text-align: left;">Project storage</td>
 <td style="text-align: left;">0.10 SEK/TB-hour</td>
 <td style="text-align: left;">0.12 SEK/TB-hour</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Lutra***</td>
+<td style="text-align: left;">Offload storage***</td>
 <td style="text-align: left;">500 SEK/TB-year</td>
 <td style="text-align: left;">N/A</td>
 </tr>
@@ -305,21 +309,15 @@ ul.task-list li input[type="checkbox"] {
 <li>Calculation:<br>
 <em>50 TB × 500 SEK/TB-year</em><br>
 </li>
-<li><strong>Annual storage cost: 2,500 SEK</strong></li>
+<li><strong>Annual storage cost: 25,000 SEK</strong></li>
 </ul>
 </section>
 </section>
 </section>
 <section id="billing" class="level2">
 <h2 class="anchored" data-anchor-id="billing">Billing</h2>
-<p>Billing follows the Uppmax pricing model, but will be send out, and paid to SLU-IT.</p>
+<p>Billing follows the Uppmax pricing model, but SLU-IT will send you internal invoices for your project. You will need to supply your billing information when applying to the resources. Without them your request will not be granted.</p>
 <p>You will be invoiced for the resources your are using, not for the ones you have allocated to your project.</p>
-<p>Points to clarify:</p>
-<ul>
-<li><p>Who issues the invoice? NAISS/Uppmax or internal SLU? Invoice comes from SLU - what’s the procedure? <strong>[MORE INFO NEEDED]</strong></p></li>
-<li><p>Where does the researcher enter a project number or cost center? NOT CLEAR YET. <strong>[MORE INFO NEEDED]</strong></p></li>
-<li><p>Is internal SLU invoicing used? Yes, see above. <strong>[MORE INFO NEEDED]</strong></p></li>
-</ul>
 </section>
 <section id="support" class="level2">
 <h2 class="anchored" data-anchor-id="support">Support</h2>
