@@ -1,5 +1,5 @@
 ---
-title: "Step 2 – Apply for Resources via SLU Local 2025"
+title: "Step 2 – Apply for Resources via SLU Local 2026"
 format:
   html:
     toc: true
