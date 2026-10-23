@@ -45,14 +45,9 @@ Once no longer needed, you can simply remove your data and not request a prolong
 
 Storage allocations on Lutra will be granted for four years at a time. 
 
-Questions pending confirmation:
-- Is termination handled through SUPR?  Yes, should be automatic. **[MORE INFO NEEDED]**
-- Is a one‑month notice period required? Again, that should be automatic - if no resources are used none are billed. **[MORE INFO NEEDED]**
-- Should users notify NAISS, SLU IT, or both? Sounded like they don't have to notify anyone, just not use the allocations anymore.  **[MORE INFO NEEDED]**
-
 ## Pricing
 
-The table below is fetched from the [UPPMAX Terms and fees](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees) page:.
+The table below is fetched from the [UPPMAX Terms and fees](https://www.uu.se/en/centre/uppmax/get-started/terms-and-fees) page:
 
 ```{r}
 #| echo: false
@@ -118,22 +113,14 @@ Based on the [UPPMAX price list](https://www.uu.se/en/centre/uppmax/get-started/
 - Price: **500 SEK per TB-year**  
 - Calculation:  
   *50 TB × 500 SEK/TB-year*  
-- **Annual storage cost: 2,500 SEK**
+- **Annual storage cost: 25,000 SEK**
 
 
 ## Billing
 
-Billing follows the Uppmax pricing model, but will be send out, and paid to SLU-IT. 
+Billing follows the Uppmax pricing model, but SLU-IT will send you internal invoices for your project. You will need to supply your billing information when applying to the resources. Without them your request will not be granted. 
 
 You will be invoiced for the resources your are using, not for the ones you have allocated to your project.
-
-Points to clarify:
-
-- Who issues the invoice? NAISS/Uppmax or internal SLU? Invoice comes from SLU - what's the procedure? **[MORE INFO NEEDED]**
-
-- Where does the researcher enter a project number or cost center? NOT CLEAR YET. **[MORE INFO NEEDED]**
-
-- Is internal SLU invoicing used? Yes, see above. **[MORE INFO NEEDED]**
 
 ## Support
 
